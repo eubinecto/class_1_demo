@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+# 가상환경은 버전컨트롤 X
+class1env/
